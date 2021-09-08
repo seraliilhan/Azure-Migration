@@ -43,7 +43,7 @@ def main(msg: func.ServiceBusMessage):
             print(message)
 
             sg = SendGridAPIClient(
-                "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")
+                "")
             print(sg)
             response = sg.send(message)
             print(response.status_code)
