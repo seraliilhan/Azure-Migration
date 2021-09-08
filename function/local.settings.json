@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=hellocellostorage;AccountKey=iY0COiuNL5CQSJIfCyvYFqJC7LUc5iZgW3ZbmNmDemsIib2bYDnOe8xRZVEJD27OLmehAnagUcsHfuCmBVAfSQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "hellocellobus_SERVICEBUS": "Endpoint=sb://hellocellobus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=0IUcGqV4+WAEYhuLaaZHAlFgCt/o+YQd4l1N1Tc+aFc="
+  }
+}
